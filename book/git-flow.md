@@ -15,3 +15,5 @@ apt-get install git-flow
 # Windows (Cygwin)
 wget -q -O - --no-check-certificate https://raw.github.com/petervanderdoes/gitflow-avh/develop/contrib/gitflow-installer.sh install stable | bash
 ```
+
+## 命令
