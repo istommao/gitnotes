@@ -16,4 +16,20 @@ apt-get install git-flow
 wget -q -O - --no-check-certificate https://raw.github.com/petervanderdoes/gitflow-avh/develop/contrib/gitflow-installer.sh install stable | bash
 ```
 
-## 命令
+## 基本步骤
+
+```bash
+git flow init
+
+# feature
+git flow feature start gitflow
+git flow feature finish gitflow
+
+# hotfix
+git flow hotfix start bug
+git flow hotfix finish bug
+
+# release
+git flow release start v1
+git flow release finish v1
+```
