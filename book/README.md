@@ -41,3 +41,10 @@ git log
 ```shell
 git clone git@github.com:istommao/gitnotes.git
 ```
+
+## 扩展
+
+- http://rogerdudler.github.io/git-guide/index.zh.html
+- https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+- https://git-scm.com/book/zh/v2
+- http://www.ruanyifeng.com/blog/2018/10/git-internals.html
